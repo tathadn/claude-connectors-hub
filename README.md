@@ -195,6 +195,12 @@ Do I have any conflicts with the Q3 planning meeting?
 
 ---
 
+## Tools Used
+
+- **[Claude](https://claude.ai)** — AI assistant used to help design and build this project
+
+---
+
 ## Learn More
 
 - [Anthropic MCP Connector Docs](https://docs.anthropic.com/en/agents-and-tools/mcp-connector)
